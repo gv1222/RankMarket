@@ -1,4 +1,4 @@
-/*    */ package com.bpermissions.rank;
+/*    */ package main.java.com.bpermissions.rank;
 /*    */ 
 /*    */ import java.io.PrintStream;
 /*    */ import net.milkbowl.vault.chat.Chat;

@@ -1,4 +1,4 @@
-/*    */ package com.bpermissions.rank;
+/*    */ package main.java.com.bpermissions.rank;
 /*    */ 
 /*    */ import java.io.File;
 /*    */ import java.util.ArrayList;

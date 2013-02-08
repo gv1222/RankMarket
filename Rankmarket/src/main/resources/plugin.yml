@@ -1,0 +1,11 @@
+name: RankMarket
+version: 1.3
+author: codename_B , gv1222
+website: http://bpermissions.com
+main: com.bpermissions.rank.RankMarket
+depend: [Vault]
+commands:
+    rank:
+        aliases: [rm, ranks]
+        description: use to purchase a rank
+        usage: /<command> ID
